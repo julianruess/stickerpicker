@@ -1,7 +1,9 @@
 {
   "packs": [
     "BuddyBear.json",
-    "Homer_Jay_Simpson.json"
+    "Homer_Jay_Simpson.json",
+    "MerkelPack.json",
+    "VladimirVPutin.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
