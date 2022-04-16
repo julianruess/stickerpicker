@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "BuddyBear.json",
+    "Homer_Jay_Simpson.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
